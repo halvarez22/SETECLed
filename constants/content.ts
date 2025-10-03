@@ -165,6 +165,7 @@ const contentData: Record<Language, Content> = {
         title: "Nuestra Oficina",
         address: "Oro #14, Col. Colinas de San Javier, Lagos de Moreno Jalisco, C.P. 47463",
         phone: "+52 (442) 123 4567",
+        email: "informes@setecled.com",
       },
     },
     footer: {
@@ -336,6 +337,7 @@ const contentData: Record<Language, Content> = {
         title: "Our Office",
         address: "Oro #14, Col. Colinas de San Javier, Lagos de Moreno Jalisco, C.P. 47463",
         phone: "+52 (442) 123 4567",
+        email: "informes@setecled.com",
       },
     },
     footer: {
