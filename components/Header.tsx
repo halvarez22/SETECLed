@@ -23,8 +23,8 @@ const Header: React.FC<HeaderProps> = ({ language }) => {
     <header className="bg-white/80 backdrop-blur-md sticky top-0 z-50 shadow-md">
       <div className="container mx-auto px-6 py-3 flex justify-between items-center">
         <a href="#" className="flex items-center">
-          <img src="/images/logo.png" alt="SETECLED Logo" className="h-10 w-auto mr-2" />
-          <span className="text-2xl font-black font-montserrat text-setec-green">Setec<span className="text-setec-dark-green">LED</span></span>
+          <img src="/images/logo.png" alt="SETECSOLAR Logo" className="h-10 w-auto mr-2" />
+          <span className="text-2xl font-black font-montserrat text-setec-green">Setec<span className="text-setec-dark-green">SOLAR</span></span>
         </a>
         
         <nav className="hidden md:flex items-center space-x-8">

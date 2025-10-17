@@ -64,7 +64,7 @@ export interface Content {
     };
     items: {
       title: string;
-      category: 'SetecLED' | 'SetecSOLAR' | 'SetecHOME';
+      category: 'SetecSOLAR' | 'SetecSOLAR' | 'SetecHOME';
       description: string;
       technologies: string[];
       image: string;
@@ -117,6 +117,8 @@ export interface Content {
       title: string;
       address: string;
       phone: string;
+      phone2?: string;
+      email: string;
     };
   };
   footer: {

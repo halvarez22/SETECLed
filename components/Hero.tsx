@@ -15,7 +15,7 @@ const Hero: React.FC<HeroProps> = ({ language }) => {
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-white px-4">
         <div className="mb-8 animate-fade-in-down">
           <div className="relative">
-            <img src="/images/logo.png" alt="SETECLED Logo" className="h-24 md:h-32 lg:h-40 w-auto mx-auto drop-shadow-2xl transform hover:scale-105 transition-transform duration-500" />
+            <img src="/images/logo.png" alt="SETECSOLAR Logo" className="h-24 md:h-32 lg:h-40 w-auto mx-auto drop-shadow-2xl transform hover:scale-105 transition-transform duration-500" />
             <div className="absolute inset-0 bg-white bg-opacity-10 rounded-full blur-xl -z-10 scale-110"></div>
           </div>
         </div>

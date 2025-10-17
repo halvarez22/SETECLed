@@ -16,7 +16,7 @@ const Footer: React.FC<FooterProps> = ({ language }) => {
       <div className="container mx-auto px-6 py-8">
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div className="text-center md:text-left">
-            <a href="#" className="text-2xl font-black font-montserrat text-accent-yellow">Setec<span className="text-white">LED</span></a>
+            <a href="#" className="text-2xl font-black font-montserrat text-accent-yellow">Setec<span className="text-white">SOLAR</span></a>
             <p className="max-w-xs mt-2 text-gray-300 text-sm">{content.description}</p>
           </div>
           <div className="text-center md:text-left">

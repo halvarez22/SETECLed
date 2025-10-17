@@ -39,7 +39,7 @@ const contentData: Record<Language, Content> = {
       title: "Nuestras Divisiones de Servicio",
       divisions: {
         led: {
-          title: "SetecLED",
+          title: "SetecSOLAR",
           description: "Soluciones de iluminación de alta eficiencia para cualquier aplicación, desde alumbrado público hasta naves industriales.",
           items: ["Diseños de Iluminación", "Estudios Fotométricos", "Suministro de los mejores productos LED", "Instalaciones industriales, comerciales, residenciales y planteles escolares"],
         },
@@ -69,14 +69,14 @@ const contentData: Record<Language, Content> = {
       title: "Proyectos Destacados",
       filter: {
         all: "Todos",
-        led: "SetecLED",
+        led: "SetecSOLAR",
         solar: "SetecSOLAR",
         home: "SetecHOME",
       },
       items: [
         {
           title: "Modernización de Alumbrado Público - Jalisco",
-          category: "SetecLED",
+          category: "SetecSOLAR",
           description: "Sustitución de 20,000 luminarias por tecnología LED, logrando un 65% de ahorro energético y mejorando la seguridad.",
           technologies: ["Luminarias LED 150W", "Fotometría Dialux", "Sistema de Telegestión"],
           image: "/images/energias verdes 2.jpg"
@@ -97,7 +97,7 @@ const contentData: Record<Language, Content> = {
         },
         {
           title: "Iluminación Industrial - Nave de Ensamble, Querétaro",
-          category: "SetecLED",
+          category: "SetecSOLAR",
           description: "Proyecto de eficiencia energética con luminarias High Bay LED, mejorando los niveles de iluminación y reduciendo el consumo en un 80%.",
           technologies: ["High Bay LED 200W", "Sensores de Movimiento", "Control DALI"],
           image: "/images/energias verdes 5.jpg"
@@ -163,8 +163,9 @@ const contentData: Record<Language, Content> = {
       },
       info: {
         title: "Nuestra Oficina",
-        address: "Oro #14, Col. Colinas de San Javier, Lagos de Moreno Jalisco, C.P. 47463",
-        phone: "+52 (442) 123 4567",
+        address: "Fray Alfonso #19, Col. El Refugio, Lagos de Moreno Jalisco, C.P. 47470",
+        phone: "+52 (474) 742 1030",
+        phone2: "+52 (474) 742 1031",
         email: "informes@setecled.com",
       },
     },
@@ -211,7 +212,7 @@ const contentData: Record<Language, Content> = {
       title: "Our Service Divisions",
       divisions: {
         led: {
-          title: "SetecLED",
+          title: "SetecSOLAR",
           description: "High-efficiency lighting solutions for any application, from public street lighting to industrial warehouses.",
           items: ["Lighting Designs", "Photometric Studies", "Supply of the best LED products", "Industrial, commercial, residential and school installations"],
         },
@@ -241,14 +242,14 @@ const contentData: Record<Language, Content> = {
       title: "Featured Projects",
       filter: {
         all: "All",
-        led: "SetecLED",
+        led: "SetecSOLAR",
         solar: "SetecSOLAR",
         home: "SetecHOME",
       },
       items: [
         {
           title: "Public Lighting Modernization - Jalisco Municipality",
-          category: "SetecLED",
+          category: "SetecSOLAR",
           description: "Replacement of 20,000 luminaires with LED technology, achieving 65% energy savings and improving citizen safety.",
           technologies: ["150W LED Luminaires", "Dialux Photometry", "Remote Management System"],
           image: "/images/imagen_portada.avif"
@@ -269,7 +270,7 @@ const contentData: Record<Language, Content> = {
         },
         {
           title: "Industrial Lighting - Assembly Warehouse, Queretaro",
-          category: "SetecLED",
+          category: "SetecSOLAR",
           description: "Energy efficiency project with High Bay LED luminaires, improving lighting levels and reducing consumption by 80%.",
           technologies: ["200W High Bay LED", "Motion Sensors", "DALI Control"],
           image: "/images/imagen_portada.avif"
@@ -335,8 +336,9 @@ const contentData: Record<Language, Content> = {
       },
       info: {
         title: "Our Office",
-        address: "Oro #14, Col. Colinas de San Javier, Lagos de Moreno Jalisco, C.P. 47463",
-        phone: "+52 (442) 123 4567",
+        address: "Fray Alfonso #19, Col. El Refugio, Lagos de Moreno Jalisco, C.P. 47470",
+        phone: "+52 (474) 742 1030",
+        phone2: "+52 (474) 742 1031",
         email: "informes@setecled.com",
       },
     },
