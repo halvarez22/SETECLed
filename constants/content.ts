@@ -69,14 +69,14 @@ const contentData: Record<Language, Content> = {
       title: "Proyectos Destacados",
       filter: {
         all: "Todos",
-        led: "SetecSOLAR",
+        led: "SetecLED",
         solar: "SetecSOLAR",
         home: "SetecHOME",
       },
       items: [
         {
           title: "Modernización de Alumbrado Público - Jalisco",
-          category: "SetecSOLAR",
+          category: "SetecLED",
           description: "Sustitución de 20,000 luminarias por tecnología LED, logrando un 65% de ahorro energético y mejorando la seguridad.",
           technologies: ["Luminarias LED 150W", "Fotometría Dialux", "Sistema de Telegestión"],
           image: "/images/energias verdes 2.jpg"
@@ -104,7 +104,7 @@ const contentData: Record<Language, Content> = {
         },
         {
           title: "Luminarias Solares Autónomas - Carretera Federal",
-          category: "SetecSOLAR",
+          category: "SetecLED",
           description: "Instalación de 500 luminarias solares para un tramo carretero sin acceso a la red eléctrica, garantizando visibilidad y seguridad.",
           technologies: ["Luminaria Solar All-in-One", "Batería de Litio", "Panel Solar de Alta Eficiencia"],
           image: "/images/energias verdes 6.jpg"
@@ -242,14 +242,14 @@ const contentData: Record<Language, Content> = {
       title: "Featured Projects",
       filter: {
         all: "All",
-        led: "SetecSOLAR",
+        led: "SetecLED",
         solar: "SetecSOLAR",
         home: "SetecHOME",
       },
       items: [
         {
           title: "Public Lighting Modernization - Jalisco Municipality",
-          category: "SetecSOLAR",
+          category: "SetecLED",
           description: "Replacement of 20,000 luminaires with LED technology, achieving 65% energy savings and improving citizen safety.",
           technologies: ["150W LED Luminaires", "Dialux Photometry", "Remote Management System"],
           image: "/images/imagen_portada.avif"
@@ -277,7 +277,7 @@ const contentData: Record<Language, Content> = {
         },
         {
           title: "Autonomous Solar Luminaires - Federal Highway",
-          category: "SetecSOLAR",
+          category: "SetecLED",
           description: "Installation of 500 solar luminaires for a highway section without access to the power grid, ensuring visibility and safety.",
           technologies: ["All-in-One Solar Luminaire", "Lithium Battery", "High-Efficiency Solar Panel"],
           image: "/images/imagen_portada.avif"

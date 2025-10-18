@@ -55,7 +55,7 @@ const Contact: React.FC<ContactProps> = ({ language }) => {
             <div className="h-64 md:h-80 bg-gray-300 rounded-lg mt-6 overflow-hidden shadow-lg">
                 <iframe
                     title="SetecSOLAR Office Location - Lagos de Moreno, Jalisco"
-                    src="https://maps.google.com/maps?q=21.347593934345433,-101.93882634811484&t=&z=16&ie=UTF8&iwloc=&output=embed"
+                    src="https://maps.google.com/maps?q=21.346703525357174,-101.93848220436367&t=&z=16&ie=UTF8&iwloc=&output=embed"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}
@@ -67,7 +67,7 @@ const Contact: React.FC<ContactProps> = ({ language }) => {
             </div>
             <div className="mt-4 text-center">
               <a 
-                href="https://maps.google.com/maps?q=21.347593934345433,-101.93882634811484"
+                href="https://maps.google.com/maps?q=21.346703525357174,-101.93848220436367"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-setec-green hover:text-setec-dark-green font-medium text-sm transition-colors duration-300"

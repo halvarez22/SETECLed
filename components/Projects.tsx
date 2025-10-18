@@ -22,7 +22,7 @@ const Projects: React.FC<ProjectsProps> = ({ language }) => {
 
   const filterButtons: { label: string, key: FilterType }[] = [
     { label: content.filter.all, key: 'All' },
-    { label: content.filter.led, key: 'SetecSOLAR' },
+    { label: content.filter.led, key: 'SetecLED' },
     { label: content.filter.solar, key: 'SetecSOLAR' },
     { label: content.filter.home, key: 'SetecHOME' },
   ];

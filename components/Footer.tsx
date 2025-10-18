@@ -40,6 +40,20 @@ const Footer: React.FC<FooterProps> = ({ language }) => {
         </div>
         <div className="mt-8 border-t border-gray-700 pt-4 text-center text-sm text-gray-400">
           <p>&copy; {new Date().getFullYear()} Sistemas Ecotecnológicos. {content.rights}</p>
+          <p className="mt-2 text-xs text-gray-400">
+            Powered by{' '}
+            <a 
+              href="https://www.pai-b.com" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-accent-yellow hover:text-white transition-colors duration-300 underline"
+            >
+              pai-b
+            </a>
+            {' '}(Your Private Artificial Intelligence For Business) 2025 
+            <span className="mx-1">&copy;</span>
+            Todos los derechos reservados
+          </p>
         </div>
       </div>
     </footer>
